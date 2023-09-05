@@ -13,4 +13,3 @@ class Player
     def test
         puts "Hello"
 Player.test
-player.test
